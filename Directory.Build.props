@@ -1,0 +1,10 @@
+﻿<Project>
+  
+  <PropertyGroup>
+    <Product>pim-product-context</Product>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <RepositoryType>git</RepositoryType>
+    
+  </PropertyGroup>
+
+</Project>
